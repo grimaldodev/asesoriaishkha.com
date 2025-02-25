@@ -1,6 +1,6 @@
 export const siteDetails = {
-    siteName: 'Asesoria Ishkah',
-    siteUrl: 'https://asesoriaishkah.com/',
+    siteName: 'Asesoria Ishkha',
+    siteUrl: 'https://asesoriaishkha.com/',
     metadata: {
         title: 'Asesoria Ishkha',
         description: 'Asesoria en inversiones de desarrollo inmobiliario ',
