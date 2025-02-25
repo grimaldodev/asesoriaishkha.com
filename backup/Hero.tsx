@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import React from 'react';
 
-import AppStoreButton from './AppStoreButton';
-import PlayStoreButton from './PlayStoreButton';
+import AppStoreButton from '../src/components/AppStoreButton';
+import PlayStoreButton from '../src/components/PlayStoreButton';
 
 import { heroDetails } from '@/data/hero';
 
